@@ -1,4 +1,4 @@
-#Last package update 08 March 2024 1456
+#Last package update 12 March 2024 1351
 FROM lscr.io/linuxserver/overseerr:latest
 LABEL org.opencontainers.image.source=https://github.com/home-organisation/docker-overserr
 LABEL org.opencontainers.image.description="overseerr"
