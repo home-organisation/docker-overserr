@@ -1,4 +1,4 @@
-#Last package update 08 March 2024 1456
+#Last package update 12 March 2024 1326
 FROM lscr.io/linuxserver/overseerr:latest
 LABEL Maintainer="bizalu"
 
